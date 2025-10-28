@@ -1,6 +1,6 @@
 # Free Fire API - Community Edition
 
-> **#1 Free Fire REST API | Get Player Stats, Match Data, Leaderboards & More | 50,000+ Developers**
+> **#1 Free Fire REST API | Get Player Stats, Match Data, Leaderboards & More | Developers**
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success)]()
@@ -32,7 +32,6 @@ The **Free Fire API** gives you instant access to real-time Free Fire game data.
 ### ⚡ Why Developers Love It
 
 - 🔥 **Super Fast** - Sub-second response times
-- 🌍 **7 Languages** - Get data in your preferred language
 - 📊 **Complete Data** - Players, matches, guilds, leaderboards
 - 🔐 **Secure** - Enterprise-grade security
 - 💯 **Reliable** - 99.9% uptime SLA
@@ -167,7 +166,7 @@ echo $response;
   - Optional: `lang` (en, ar, es, id, pt, ru, vi)
   - Returns: Ban status and ban period information
 
-**[→ View Full API Documentation](https://docs.freefirecommunity.com/api)** | **[→ OpenAPI Spec](https://developers.freefirecommunity.com/openapi.json)**
+**[→ View Full API Documentation](https://docs.freefirecommunity.com/)**
 
 ---
 
@@ -180,7 +179,7 @@ echo $response;
 | **Pro** | 10,000 | $29/mo | API analytics |
 | **Enterprise** | Custom | Custom | Dedicated support |
 
-**[→ View pricing and upgrade](https://developers.freefirecommunity.com/pricing)**
+**[→ View pricing and upgrade](https://developers.freefirecommunity.com/en/pricing)**
 
 ---
 
@@ -188,13 +187,7 @@ echo $response;
 
 Everything you need to get started:
 
-- **[Getting Started Guide](https://docs.freefirecommunity.com/getting-started)** - 5-minute setup
-- **[API Reference](https://docs.freefirecommunity.com/api)** - Complete endpoint docs
-- **[Authentication](https://docs.freefirecommunity.com/auth)** - API key management
-- **[Code Examples](https://docs.freefirecommunity.com/examples)** - 20+ real-world samples
-- **[Error Handling](https://docs.freefirecommunity.com/errors)** - Troubleshooting guide
-- **[Rate Limiting](https://docs.freefirecommunity.com/rate-limits)** - Understanding quotas
-- **[Webhooks](https://docs.freefirecommunity.com/webhooks)** - Real-time events
+- **[API Docs](https://docs.freefirecommunity.com/)** - Complete 
 
 ---
 
@@ -202,7 +195,7 @@ Everything you need to get started:
 
 ### Get Help
 - 📧 **Email**: support@freefirecommunity.com
-- 💬 **Forum**: [developers.freefirecommunity.com/community](https://developers.freefirecommunity.com/community)
+- 💬 **Forum**: [developers.freefirecommunity.com/community](https://www.freefirecommunity.com/)
 - 🐛 **GitHub Issues**: [Report bugs](https://github.com/ashqking/Free-Fire-API/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/ashqking/Free-Fire-API/discussions)
 
@@ -233,8 +226,6 @@ Everything you need to get started:
 ✅ **GDPR compliant** - Your data is safe  
 ✅ **Regular audits** - Security testing 24/7  
 
-**[→ Read security documentation](https://docs.freefirecommunity.com/security)**
-
 ---
 
 ## 📄 License
@@ -245,7 +236,7 @@ MIT License - Use freely in commercial and personal projects.
 
 ## ⚖️ Legal Notice
 
-This is a **community project** and is NOT affiliated with, endorsed by, or associated with Garena or Free Fire. Used for educational and development purposes only.
+This is a **community project** and is **NOT** affiliated with, endorsed by, or associated with Garena or Free Fire. Used for educational and development purposes only.
 
 ---
 
@@ -264,10 +255,8 @@ This is a **community project** and is NOT affiliated with, endorsed by, or asso
 
 ✨ **Most Complete** - All player, match, and guild data  
 🚀 **Fastest** - Sub-second response times  
-🌍 **Global** - 7-language support + multi-region  
 📚 **Best Docs** - Crystal clear examples for all languages  
 🤝 **Best Support** - Real humans, 24/7 community  
-💯 **Most Reliable** - Battle-tested by 50,000+ developers  
 🔐 **Most Secure** - Enterprise security standards  
 
 ---
@@ -278,7 +267,7 @@ This is a **community project** and is NOT affiliated with, endorsed by, or asso
 
 > "Launched our Discord bot in 2 hours. The examples were perfect." - **CommunityLeader**
 
-> "Switched from another API. This one is 10x faster and cheaper." - **StartupCEO**
+> "Switched from another API. This one is 10x faster and cheaper." - **BooyahNews**
 
 ---
 
@@ -288,18 +277,14 @@ This is a **community project** and is NOT affiliated with, endorsed by, or asso
 - ✅ Added GraphQL endpoints
 - ✅ Improved performance (now 40% faster)
 - ✅ Added Vietnamese language support
-- ✅ New webhook system
-- ✅ Mobile SDK released
-
-**[→ View changelog](https://developers.freefirecommunity.com/changelog)**
+**[→ View changelog](https://docs.freefirecommunity.com/changelog)**
 
 ---
 
 ## 🎓 Learn More
 
 - 📖 [Official Documentation](https://docs.freefirecommunity.com)
-- 🎥 [Video Tutorials](https://youtube.com/@freefirecommunity)
-- 💻 [GitHub Examples](https://github.com/ashqking/Free-Fire-API/tree/main/examples)
+- 🎥 [Video Tutorials](https://youtube.com/@freefirecommunityforum)
 - 🗣️ [Community Forum](https://developers.freefirecommunity.com/community)
 
 ---
