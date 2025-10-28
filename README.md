@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production%20Ready-success)]()
 [![GitHub Stars](https://img.shields.io/github/stars/ashqking/Free-Fire-API?style=social)](https://github.com/ashqking/Free-Fire-API)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA)](https://developers.freefirecommunity.com)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289DA)]([https://developers.freefirecommunity.com](https://discord.com/invite/free-fire-community-1025382753790865508))
 ![Uptime](https://img.shields.io/badge/Uptime-99.9%25-brightgreen)
 
 ---
