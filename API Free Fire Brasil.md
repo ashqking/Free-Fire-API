@@ -37,7 +37,7 @@ Quando você se junta à nossa comunidade de **desenvolvedores de Free Fire**, v
 
 Pronto para se tornar um **desenvolvedor de Free Fire** em quem os fãs podem confiar? Começar é incrivelmente simples:
 
-1. **Visite o Portal do Desenvolvedor:** Acesse nossa [Plataforma de Desenvolvedores do Free Fire](https://developers.freefirecommunity.com/) para criar sua conta.
+1. **Visite o Portal do Desenvolvedor:** Acesse nossa [Plataforma de Desenvolvedores do Free Fire](https://developers.freefirecommunity.com/?utm_source=github) para criar sua conta.
 2. **Obtenha sua Chave de API:** Uma vez registrado, gere sua chave de API exclusiva. Recomendamos o uso da Autenticação de Cabeçalho (`x-api-key`) para segurança máxima.
 3. **Leia a Documentação:** Explore nossa documentação abrangente para entender os endpoints. Você encontrará trechos de código para JavaScript, Python, cURL e muito mais.
 4. **Selecione um Plano Premium:** Observe que atualmente não oferecemos uma API gratuita. Verifique nosso sistema para planos premium que garantem velocidade e confiabilidade máximas.

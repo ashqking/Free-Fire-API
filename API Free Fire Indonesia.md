@@ -37,7 +37,7 @@ Saat Anda bergabung dengan komunitas **developer Free Fire** kami, Anda mendapat
 
 Siap menjadi **developer Free Fire** yang dapat diandalkan oleh para penggemar? Memulainya sangatlah mudah:
 
-1. **Kunjungi Portal Developer:** Buka [Platform Developer Free Fire](https://developers.freefirecommunity.com/) kami untuk membuat akun Anda.
+1. **Kunjungi Portal Developer:** Buka [Platform Developer Free Fire](https://developers.freefirecommunity.com/?utm_source=github) kami untuk membuat akun Anda.
 2. **Dapatkan API Key Anda:** Setelah terdaftar, hasilkan kunci API unik Anda. Kami sarankan menggunakan Autentikasi Header (`x-api-key`) untuk keamanan maksimum.
 3. **Baca Dokumentasi:** Jelajahi dokumentasi lengkap kami untuk memahami berbagai endpoint. Anda akan menemukan cuplikan kode untuk JavaScript, Python, cURL, dan banyak lagi.
 4. **Pilih Paket Premium:** Harap perhatikan bahwa kami tidak menawarkan API gratis saat ini. Periksa sistem kami untuk paket premium yang menjamin kecepatan dan keandalan maksimal.
