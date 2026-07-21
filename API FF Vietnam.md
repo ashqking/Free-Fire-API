@@ -25,7 +25,7 @@ Dù người dùng của bạn ở Ấn Độ (IND), Singapore (SG) hay Brazil (
 
 Sẵn sàng trở thành một **nhà phát triển Free Fire**? Bắt đầu cực kỳ đơn giản:
 
-1. **Truy cập Cổng thông tin Nhà phát triển:** Truy cập [Nền tảng nhà phát triển Free Fire](https://developers.freefirecommunity.com/) của chúng tôi để tạo tài khoản.
+1. **Truy cập Cổng thông tin Nhà phát triển:** Truy cập [Nền tảng nhà phát triển Free Fire](https://developers.freefirecommunity.com/?utm_source=github) của chúng tôi để tạo tài khoản.
 2. **Nhận API Key của bạn:** Sau khi đăng ký, hãy tạo khóa API duy nhất của bạn.
 3. **Đọc Tài liệu:** Khám phá tài liệu toàn diện của chúng tôi để hiểu các endpoint.
 4. **Chọn Gói Premium:** Xin lưu ý rằng hiện tại chúng tôi không cung cấp API miễn phí. Vui lòng kiểm tra hệ thống của chúng tôi để biết các gói trả phí.
