@@ -12,7 +12,7 @@
 
 ## 🚀 START BUILDING TODAY
 
-### [👉 GET FREE API KEY (developers.freefirecommunity.com) 👈](https://developers.freefirecommunity.com)
+### [👉 GET FREE API KEY (developers.freefirecommunity.com) 👈](https://developers.freefirecommunity.com?utm_source=github)
 
 **In 60 seconds you'll have:**
 - ✅ Free API key (100 requests/hour)
@@ -70,7 +70,7 @@ The **Free Fire API** gives you instant access to real-time Free Fire game data.
 ## 🚀 Get Started in 2 Minutes
 
 ### Step 1: Sign Up (30 seconds)
-[**→ Go to developers.freefirecommunity.com**](https://developers.freefirecommunity.com)
+[**→ Go to developers.freefirecommunity.com**](https://developers.freefirecommunity.com?utm_source=github)
 
 ### Step 2: Create Your First Request
 
@@ -166,7 +166,7 @@ echo $response;
   - Optional: `lang` (en, ar, es, id, pt, ru, vi)
   - Returns: Ban status and ban period information
 
-**[→ View Full API Documentation](https://docs.freefirecommunity.com/)**
+**[→ View Full API Documentation](https://docs.freefirecommunity.com/?utm_source=github)**
 
 ---
 
@@ -174,7 +174,7 @@ echo $response;
 
 Everything you need to get started:
 
-- **[API Docs](https://docs.freefirecommunity.com/)** - Complete 
+- **[API Docs](https://docs.freefirecommunity.com/?utm_source=github)** - Complete 
 
 ---
 
@@ -182,7 +182,7 @@ Everything you need to get started:
 
 ### Get Help
 - 📧 **Email**: developers@freefirecommunity.com
-- 💬 **Forum**: [developers.freefirecommunity.com/community](https://www.freefirecommunity.com/)
+- 💬 **Forum**: [developers.freefirecommunity.com/community](https://www.freefirecommunity.com/?utm_source=github)
 - 🐛 **GitHub Issues**: [Report bugs](https://github.com/ashqking/Free-Fire-API/issues)
 - 💡 **Feature Requests**: [GitHub Discussions](https://github.com/ashqking/Free-Fire-API/discussions)
 
@@ -229,7 +229,7 @@ This is a **community project** and is **NOT** affiliated with, endorsed by, or 
 
 ## 🎯 Next Steps
 
-### [🚀 GET YOUR FREE API KEY NOW →](https://developers.freefirecommunity.com)
+### [🚀 GET YOUR FREE API KEY NOW →](https://developers.freefirecommunity.com?utm_source=github)
 
 1. **Sign Up** - Takes 60 seconds
 2. **Create App** - Get your API key instantly  
@@ -264,7 +264,7 @@ This is a **community project** and is **NOT** affiliated with, endorsed by, or 
 - ✅ Added GraphQL endpoints
 - ✅ Improved performance (now 40% faster)
 - ✅ Added Vietnamese language support
-**[→ View changelog](https://docs.freefirecommunity.com/changelog)**
+**[→ View changelog](https://docs.freefirecommunity.com/changelog?utm_source=github)**
 
 ---
 
@@ -272,6 +272,8 @@ This is a **community project** and is **NOT** affiliated with, endorsed by, or 
 
 - 📖 [Official Documentation](https://docs.freefirecommunity.com)
 - 🗣️ [Community Forum](https://www.freefirecommunity.com/community)
+- 📖 [Official Documentation](https://docs.freefirecommunity.com?utm_source=github)
+- 🗣️ [Community Forum](https://www.freefirecommunity.com/community?utm_source=github)
 
 ---
 
@@ -280,7 +282,7 @@ This is a **community project** and is **NOT** affiliated with, endorsed by, or 
 **Have questions?**
 - 📧 Email: developers@freefirecommunity.com
 - 💬 Chat: [developers.freefirecommunity.com](https://developers.freefirecommunity.com)
-- 🐛 GitHub: [@ashqking](https://github.com/ashqking)
+- 💬 Chat: [developers.freefirecommunity.com](https://developers.freefirecommunity.com?utm_source=github)
 
 ---
 
@@ -295,12 +297,12 @@ This is a **community project** and is **NOT** affiliated with, endorsed by, or 
 
 ### ⭐ If you love this API, give it a star! ⭐
 
-### [**→ GET FREE API KEY AT developers.freefirecommunity.com ←**](https://developers.freefirecommunity.com)
+### [**→ GET FREE API KEY AT developers.freefirecommunity.com ←**](https://developers.freefirecommunity.com?utm_source=github)
 
 **Made with ❤️ for the Free Fire Community**
 
 ---
 
-Last Updated: April 22, 2026 | [Docs](https://docs.freefirecommunity.com) | [GitHub](https://github.com/ashqking/Free-Fire-API)
+Last Updated: April 22, 2026 | [Docs](https://docs.freefirecommunity.com?utm_source=github) | [GitHub](https://github.com/ashqking/Free-Fire-API)
 
 </div>
